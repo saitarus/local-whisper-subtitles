@@ -1,0 +1,37 @@
+# Audio & Video Artifacts
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wav
+*.mp3
+*.flac
+*.aac
+*.srt
+*.ass
+*.vtt
+output/
+tmp/
+temp/
+
+# Python & AI Models
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+*.pt
+*.bin
+*.onnx
+
+# OS & Environment
+.env
+.env.*
+.DS_Store
+Thumbs.db
+desktop.ini

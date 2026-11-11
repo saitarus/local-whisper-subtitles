@@ -1,0 +1,10 @@
+# Core Subtitle & Quality Testing
+pytest>=8.0.0
+flake8>=7.0.0
+
+# Optional Audio/AI Dependencies (for full GPU pipeline)
+# torch>=2.0.0
+# torchaudio>=2.0.0
+# stable-ts>=2.15.0
+# pydub>=0.25.1
+# numpy>=1.24.0
